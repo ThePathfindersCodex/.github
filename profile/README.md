@@ -12,6 +12,11 @@ More repositories coming soon!
 
 &nbsp;
 
+## Godot Engine 4.2.1 - From Life to Lenia
+* ### [Life 2 Lenia](https://github.com/ThePathfindersCodex/game-of-life-2-lenia)
+
+&nbsp;
+
 ## Godot Engine 4.2.1 - 2D Orbital Mechanics Projects
 * ### [atomas-space-kplanet-4](https://github.com/ThePathfindersCodex/atomas-space-kplanet-4)
 * ### [atomas-space-planet-4](https://github.com/ThePathfindersCodex/atomas-space-planet-4)
