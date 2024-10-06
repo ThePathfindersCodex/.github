@@ -12,8 +12,13 @@ More repositories coming soon!
 
 &nbsp;
 
-## Godot Engine 4.2.1 - From Life to Lenia
+## Godot Engine 4.2.1 - From Life to Lenia in GDScript
 * ### [Life 2 Lenia](https://github.com/ThePathfindersCodex/game-of-life-2-lenia)
+
+&nbsp;
+
+## Godot Engine 4.2.1 - Lenia GLSL Compute Shader
+* ### [Lenia Compute Shader](https://github.com/ThePathfindersCodex/lenia-godot-compute-shader)
 
 &nbsp;
 
