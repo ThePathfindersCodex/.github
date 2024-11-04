@@ -7,6 +7,12 @@ More repositories coming soon!
 # Current Project Listing
 &nbsp;
 
+## Godot Engine 4.3 - 2D Star System Compute Shader
+* ### [2D Star System Compute Shader](https://github.com/ThePathfindersCodex/Godot-2D-Star-System-Compute-Shader)
+
+&nbsp;
+
+
 ## Godot Engine 4.0.2 - 2D Platformer Tutorial Series
 * ### [Platformer2DInAction](https://github.com/ThePathfindersCodex/Platformer2DInAction)
 
