@@ -7,6 +7,12 @@ More repositories coming soon!
 # Current Project Listing
 &nbsp;
 
+## Godot Engine 4.3 - Orbit Drawing Shader
+* ### [2D Orbit Shader](https://github.com/ThePathfindersCodex/orbit-shader)
+
+&nbsp;
+
+
 ## Godot Engine 4.3 - 2D Star System Compute Shader
 * ### [2D Star System Compute Shader](https://github.com/ThePathfindersCodex/Godot-2D-Star-System-Compute-Shader)
 
