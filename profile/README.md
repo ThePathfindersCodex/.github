@@ -1,6 +1,6 @@
 Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfindersCodex) on YouTube
 
-Repositories are now public! Thank you to our subscribers for helping us hit our first YouTube goal. 
+Repositories are now public! Thank you to our subscribers for helping us hit our second YouTube goal of 500 subscribers. 
 
 More repositories coming soon!
 
