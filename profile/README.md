@@ -7,6 +7,12 @@ More repositories coming soon!
 # Current Project Listing
 &nbsp;
 
+## Godot Classroom Discord Challenges
+* ###  Pong (Godot Engine 4.3) [Challenge-1-Pong](https://github.com/ThePathfindersCodex/Challenge-1-Pong)
+
+&nbsp;
+
+
 ## Godot Engine 4.3 - Orbit Drawing Shader
 * ### [2D Orbit Shader](https://github.com/ThePathfindersCodex/orbit-shader)
 
