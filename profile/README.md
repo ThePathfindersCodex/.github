@@ -8,7 +8,9 @@ More repositories coming soon!
 &nbsp;
 
 ## Godot Classroom Discord Challenges
-* ###  Pong (Godot Engine 4.3) [Challenge-1-Pong](https://github.com/ThePathfindersCodex/Challenge-1-Pong)
+* ###  Rocket Pong (Godot Engine 4.3) [Challenge-1-Pong](https://github.com/ThePathfindersCodex/Challenge-1-Pong)
+* ###  Brickvania (Godot Engine 4.4) [Challenge-2-Breakout](https://github.com/ThePathfindersCodex/Challenge-2-Breakout)
+
 
 &nbsp;
 
