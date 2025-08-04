@@ -7,10 +7,9 @@ More repositories coming soon!
 # Current Project Listing
 &nbsp;
 
-## Godot Classroom Discord Challenges
-* ###  Rocket Pong (Godot Engine 4.3) [Challenge-1-Pong](https://github.com/ThePathfindersCodex/Challenge-1-Pong)
-* ###  Brickvania (Godot Engine 4.4) [Challenge-2-Breakout](https://github.com/ThePathfindersCodex/Challenge-2-Breakout)
 
+## Godot Engine 4.4 - Simple Cooldown Shader
+* ### [Cooldown Shader](https://github.com/ThePathfindersCodex/simple-cooldown-shader)
 
 &nbsp;
 
@@ -53,6 +52,12 @@ More repositories coming soon!
 * ### [atomas-space-kplanet](https://github.com/ThePathfindersCodex/atomas-space-kplanet)
 * ### [atomas-space-planet](https://github.com/ThePathfindersCodex/atomas-space-planet)
 * ### [atomas-space-rails-and-nbody](https://github.com/ThePathfindersCodex/atomas-space-rails-and-nbody)
+
+&nbsp;
+
+## Godot Classroom Discord Challenges
+* ###  Rocket Pong (Godot Engine 4.3) [Challenge-1-Pong](https://github.com/ThePathfindersCodex/Challenge-1-Pong)
+* ###  Brickvania (Godot Engine 4.4) [Challenge-2-Breakout](https://github.com/ThePathfindersCodex/Challenge-2-Breakout)
 
 &nbsp;
 
