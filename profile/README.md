@@ -7,6 +7,11 @@ More repositories coming soon!
 # Current Project Listing
 &nbsp;
 
+## Godot Engine 4.4 - Particle Life Simulation Compute Shader
+* ### [Particle Life Compute Shader](https://github.com/ThePathfindersCodex/Godot-Particle-Life-Compute-Shader)
+
+&nbsp;
+
 
 ## Godot Engine 4.4 - Simple Cooldown Shader
 * ### [Cooldown Shader](https://github.com/ThePathfindersCodex/simple-cooldown-shader)
