@@ -1,11 +1,13 @@
 Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfindersCodex) on YouTube
 
-Repositories are now public! Thank you to our subscribers for helping us hit our second YouTube goal of 500 subscribers. 
-
-More repositories coming soon!
-
 # Current Project Listing
 &nbsp;
+
+## Godot Engine 4.4 - Boids Flocking Simulation Compute Shader
+* ### [Boids Flocking Compute Shader](https://github.com/ThePathfindersCodex/Godot-Boids-Compute-Shader)
+
+&nbsp;
+
 
 ## Godot Engine 4.4 - Particle Life Simulation Compute Shader
 * ### [Particle Life Compute Shader](https://github.com/ThePathfindersCodex/Godot-Particle-Life-Compute-Shader)
