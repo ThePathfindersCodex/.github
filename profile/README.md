@@ -4,6 +4,12 @@ Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfinders
 &nbsp;
 
 
+## Godot Engine 4.5 - Signed Distance Field Visualizer
+* ### [Signed Distance Field Visualizer](https://github.com/ThePathfindersCodex/sdf-explorer)
+
+&nbsp;
+
+
 ## Godot Engine 4.5 - Combined Compute Shader - Boids and Particle Life
 * ### [Boids and Particle Life Combined Compute Shader](https://github.com/ThePathfindersCodex/Godot-Particle-Life-Boids-Combined-Compute-Shader)
 
