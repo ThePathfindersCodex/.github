@@ -47,6 +47,7 @@ Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfinders
 
 
 ## Godot Engine 4.0.2 - 2D Platformer Tutorial Series
+* ### $${\color{red}REQUIRES \space GODOT \space Engine \space 4.0.2}$$
 * ### [Platformer2DInAction](https://github.com/ThePathfindersCodex/Platformer2DInAction)
 
 &nbsp;
@@ -69,6 +70,7 @@ Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfinders
 &nbsp;
 
 ## Godot Engine 3.4.4 - 2D Orbital Mechanics Projects
+* ### $${\color{red}REQUIRES \space GODOT \space Engine \space 3.4.4}$$
 * ### [atomas-space-kplanet](https://github.com/ThePathfindersCodex/atomas-space-kplanet)
 * ### [atomas-space-planet](https://github.com/ThePathfindersCodex/atomas-space-planet)
 * ### [atomas-space-rails-and-nbody](https://github.com/ThePathfindersCodex/atomas-space-rails-and-nbody)
