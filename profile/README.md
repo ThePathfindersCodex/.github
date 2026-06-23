@@ -4,6 +4,12 @@ Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfinders
 &nbsp;
 
 
+## Godot Engine 4.6.3 - 3D Star System (inspired by Outer Wilds)
+* ### [3D Star System](https://github.com/ThePathfindersCodex/star-system-3d)
+
+&nbsp;
+
+
 ## Godot Engine 4.5 - Signed Distance Field Visualizer
 * ### [Signed Distance Field Visualizer](https://github.com/ThePathfindersCodex/sdf-explorer)
 
