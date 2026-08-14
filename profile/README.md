@@ -3,6 +3,11 @@ Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfinders
 # Current Project Listing
 &nbsp;
 
+## Godot Engine 4.7 - Slime Mold Compute Shader
+* ### [Slime Mold Compute Shader](https://github.com/ThePathfindersCodex/slime-mold-sim/)
+
+&nbsp;
+
 
 ## Godot Engine 4.6.3 - 3D Star System (inspired by Outer Wilds)
 * ### [3D Star System](https://github.com/ThePathfindersCodex/star-system-3d)
