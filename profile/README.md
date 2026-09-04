@@ -3,6 +3,12 @@ Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfinders
 # Current Project Listing
 &nbsp;
 
+## Godot Engine 4.7 - Gradient Explorer Demo
+* ### [Gradient Explorer](https://github.com/ThePathfindersCodex/gradient-texture-1d/)
+
+&nbsp;
+
+
 ## Godot Engine 4.7 - Slime Mold Compute Shader
 * ### [Slime Mold Compute Shader](https://github.com/ThePathfindersCodex/slime-mold-sim/)
 
