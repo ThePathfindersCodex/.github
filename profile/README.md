@@ -3,6 +3,12 @@ Code projects from [ThePathfindersCodex](https://www.youtube.com/@ThePathfinders
 # Current Project Listing
 &nbsp;
 
+## Godot Engine 4.7 - Combined Compute Shader - Boids + Particle Life + Slime Mold
+* ### [Boids and Particle Life and Slime Mold Combined Compute Shader](https://github.com/ThePathfindersCodex/Godot-Particle-Life-Boids-Slime-Combined-Compute-Shader)
+
+&nbsp;
+
+
 ## Godot Engine 4.7 - Gradient Explorer Demo
 * ### [Gradient Explorer](https://github.com/ThePathfindersCodex/gradient-texture-1d/)
 
